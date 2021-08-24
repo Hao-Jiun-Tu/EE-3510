@@ -4,7 +4,7 @@ Feedback Control Systems
 * Cource Number : EE-3510
 * Course Title : Feedback Control Systems
 * Instructor : Prof. Wei-Yu Chiu
-* Year : 2022 Spring
+* Year : 2021 Spring
 ## Lecture Topics
 * Ch1 : Introduction to Control Systems
 * Ch2 : Mathematical Models of Systems
